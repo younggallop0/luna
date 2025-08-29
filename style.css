@@ -1,0 +1,16 @@
+.main-1 {
+max-width: 330px;
+padding: 1rem;
+padding-top: 50px;
+}
+background {
+    background: linear-gradient(#FAF7F3, #F0E4D3, #DCC5B2, #D9A299);
+
+}
+
+.body1 {
+  background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+ .king11 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
